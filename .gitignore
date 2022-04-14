@@ -1,0 +1,13 @@
+# Binaries for programs and plugins
+main
+vADB
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
+
+# Tests
+tests/*.apkm
+tests/*_output
